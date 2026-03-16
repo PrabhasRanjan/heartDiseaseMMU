@@ -1,0 +1,6 @@
+dataset/
+test_model.py
+.git/
+.vscode/
+__pycache__/
+*.pyc
